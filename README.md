@@ -1,10 +1,11 @@
-## Project Name
---Favorite Things
+## Favorite Things
+
 
 ## Features
---A Website for my Favorite Things
 
-##Technologies
+A simple website highlighting my favorite things.
+
+## Technologies
 JavaScript, JQuery, BootStrap, HTML and CSS
 
 ## Usage
